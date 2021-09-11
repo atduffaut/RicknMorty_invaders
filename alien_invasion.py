@@ -17,7 +17,7 @@ def run_game():
     screen = pygame.display.set_mode((ai_settings.screen_width, ai_settings.screen_height))
     pygame.display.set_caption("Alien Invasion")
 
-    button = Button(ai_settings, screen, "Help Mr.Frost save nature!")
+    button = Button(ai_settings, screen, "Come here *burps* Morty")
 
     # instance of game stats
     stats = GameStats(ai_settings)

@@ -10,7 +10,7 @@ class Alien(Sprite):
         self.ai_settings = ai_settings
 
         # load image and make the rect from it
-        self.image = pygame.image.load('gear.png')
+        self.image = pygame.image.load('rick.png')
         self.rect = self.image.get_rect()
 
         # start each new alien at the top left of the screen

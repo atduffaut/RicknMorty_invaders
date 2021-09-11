@@ -10,7 +10,7 @@ class Morty:
         self.ai_settings = ai_settings
 
         # load in ship
-        self.image = pygame.image.load("frost.png")
+        self.image = pygame.image.load("morty2.png")
         self.rect = self.image.get_rect()
         self.screen_rect = screen.get_rect()
 
