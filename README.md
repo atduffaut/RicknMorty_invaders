@@ -1,0 +1,1 @@
+A customizable rick and morty themed space invaders game. All settings such as game speed can be changed in the settings file. Requires pygame to run and should work with any version of python3. press q to exit game and start by running the alien_invasion.py file
