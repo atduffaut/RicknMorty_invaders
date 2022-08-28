@@ -1,3 +1,8 @@
 This was my first Python project to learn the language. Used OOP skills to create an object oriented game with Pygame, a Python game development library.
 
-A customizable rick and morty themed space invaders game. All settings such as game speed can be changed in the settings file. Requires pygame to run and should work with any version of python3. press q to exit game and start by running the alien_invasion.py file
+#Instructions to run:
+Preferably, create a Python virtual environment (pyenv is good for this). Used Python version 3.9.11 but most other versions should also work.
+Once this has been created, install the requirements with pip by running:
+"""pip install -r requirements.txt"""
+Then you should be able to run the program by running:
+"""python src/alien_invasion.py"""
